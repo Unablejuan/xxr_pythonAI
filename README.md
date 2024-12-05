@@ -55,7 +55,7 @@
 
 
 
-### 1.2 角度测量
+### 1.2 角度测量(详见原算法作者)
 
 ![img](https://cdn.nlark.com/yuque/0/2024/png/44497935/1732887488858-b4207159-5033-464a-b80c-5dca5d01f407.png)
 
@@ -221,11 +221,8 @@ def judge_Yee(all_points, bend_states, straighten_states):
 
 当手势连续 30 帧不变时，将返回该手势;否则，将继续识别
 
-## 4. 许可
 
-本项目根据 Apache 2.0 许可证获得许可。
-
-## 5. 鸣谢
+## 4. 鸣谢
 
 > Github:[WangLeYuu (wly) (github.com)](https://github.com/WangLeYuu)
 >
